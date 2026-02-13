@@ -527,4 +527,4 @@ This project is proprietary software developed for MambaProperties. Unauthorized
 
 **Last Updated**: February 12, 2026  
 **Version**: 1.0.0-alpha  
-**Maintained By**: [Your Name/Team]# MambaProperties-Management-System
+**Maintained By**: MessoDigitallz# MambaProperties-Management-System
